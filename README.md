@@ -20,7 +20,7 @@ The landing page includes all essential sections to present your brand effective
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://your-username.github.io/nextlife-landing/) *(Replace with your GitHub Pages link)*  
+👉 [View Live Site](https://sidhant-codes.github.io/landing-page/)
 
 ---
 
@@ -41,17 +41,20 @@ The landing page includes all essential sections to present your brand effective
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
 <div align="center">
-  <img src="screenshot-hero.png" width="80%" alt="Hero Section Screenshot" />
-  <img src="screenshot-services.png" width="80%" alt="Services Section Screenshot" />
+  <img src="hero.png" width="70%" alt="Vintage Theme Screenshot" />
+  <img src="aboutp.png" width="70%" alt="Futuristic Theme Screenshot" />
 </div>
 
----
+## 📜 License
 
-## 🚀 How to Use
+This project is open-source and available under the [MIT License](LICENSE).
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/nextlife-landing.git
+## 👨‍💻 Author
+
+**Sidhant Bisht**
+
+- 🌐 GitHub: [@sidhant-codes](https://github.com/sidhant-codes)  
+- 📧 Email: sidhantbisht1006@gmail.com
